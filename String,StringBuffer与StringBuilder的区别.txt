@@ -1,0 +1,6 @@
+String：
+	首先String字符串是一个特殊的基本类型，是一个引用类型或者一个对象，想要了解三个对象的区别我们要知道其的原由。String在定义的时候为常量，是不可变的，这就导致了每次对String的操作都会生成新的String，这样不仅效率低下，且浪费大量的空间，如下例子：String str = “hello”+“.”，系统会创建议一个新的空间来存改变后的String，而就导致原来的被抛弃了，数量多的时候，会造成极大的空间浪费；
+
+	所以在这问题下，谷歌引入两个新的类——StringBuffer类和StringBuild类对此变化字符串进行处理。
+和String类不同的是，StringBuffer类和StringBuild类的对象能够被多次的修改，并且不产生新的未使用对象。
+	而对于StringBuffer类和StringBuild类的区别就是线程安全与不安全问题，StringBuild的执行效率比StringBuffer高些，但是线程比StringBuild安全些。
