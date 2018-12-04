@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editors>
+<editor id="org.xmind.ui.MindMapEditor" name="IO API" partName="IO API" title="IO API" tooltip="E:\课件\笔记\二学年\Java\IO API.xmind">
+<input factoryID="org.xmind.ui.MindMapEditorInputFactory" uri="file:/E:/课件/笔记/二学年/Java/IO%20API.xmind">
+<state tempLocation="E:\课件\笔记\二学年\Java\workspace\temp\workbooks\b5b1d3cd-b018-4998-88f7-7ec9c6a75711.xmind.temp"/>
+</input>
+</editor>
+<editor id="org.xmind.ui.MindMapEditor" name="跨域请求" partName="跨域请求" title="跨域请求" tooltip="E:\课件\笔记\二学年\跨域请求\跨域请求.xmind">
+<input factoryID="org.xmind.ui.MindMapEditorInputFactory" uri="file:/E:/课件/笔记/二学年/跨域请求/跨域请求.xmind">
+<state tempLocation="E:\课件\笔记\二学年\Java\workspace\temp\workbooks\56445e57-df9b-46bf-9a71-37d06f9c5b31.xmind.temp"/>
+</input>
+</editor>
+</editors>
